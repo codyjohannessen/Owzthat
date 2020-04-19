@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Owzthat</string>
+    <string name="owzthat">Owzthat!</string>
+    <string name="gameDescription">The simple, on the go</string>
+    <string name="cricketGame">Cricket Game!</string>
+    <string name="startGame">Start Game</string>
+    <string name="highScores">High Scores</string>
+    <string name="batimage">Bat and Ball</string>
+    <string name="rollButton">Roll Ball</string>
+    <string name="totalScore">Total Score"</string>
+    <string name="bowledScore">Runs scored</string>
+    <string name="umpireButton">Umpire</string>
+    <string name="caught">Caught</string>
+    <string name="notOut">Not Out</string>
+    <string name="lbw">L.B.W</string>
+    <string name="bowled">Bowled</string>
+    <string name="wicket">Wicket</string>
+    <string name="batter1">Batter 1 image</string>
+    <string name="batter2">Batter 2 image</string>
+
+
+</resources>
